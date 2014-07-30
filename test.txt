@@ -1,2 +1,0 @@
-This is a test for git
-This is a second test for git
